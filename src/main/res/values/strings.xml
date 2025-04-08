@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ART RELATED STRINGS [!need override!] -->
+    <string name="art_details_artist_content_description"/>
+    <string name="art_details_default_text"/>
+    <string name="art_link"/>
+    <string name="art_base_url"/>
+    <string name="art_websites"/>
+    <string name="art_title"/>
+    <string name="art_enable_location"/>
+    <string name="art_denied_permission"/>
+    <string name="art_not_at_wald"/>
+    <string name="art_welcome"/>
+    <string name="beacons_title"/>
+</resources>
